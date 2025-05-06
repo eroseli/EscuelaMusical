@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{855B608D-4C1D-4AB1-A2F0-C87E15D403A8}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EscuelaMusica-BackEnd/Repositories/AlumnoRepository.cs">
+    <Files>
+      <File FileName="EscuelaMusica-BackEnd/Domain/Entities/Alumno.cs" Line="1" Column="1" />
+      <File FileName="EscuelaMusica-BackEnd/Controllers/ValuesController.cs" Line="30" Column="1" />
+      <File FileName="EscuelaMusica-BackEnd/Repositories/AlumnoRepository.cs" Line="61" Column="47" />
+      <File FileName="EscuelaMusica-BackEnd/Domain/Interfaces/IEscuelaRepository.cs" Line="8" Column="9" />
+      <File FileName="EscuelaMusica-BackEnd/Services/AlumnoService.cs" Line="35" Column="42" />
+      <File FileName="EscuelaMusica-BackEnd/Services/Interfaces/IAlumnoService.cs" Line="9" Column="47" />
+      <File FileName="EscuelaMusica-BackEnd/Services/Interfaces/IEscuelaService.cs" Line="8" Column="24" />
+      <File FileName="EscuelaMusica-BackEnd/Services/EscuelaService.cs" Line="16" Column="1" />
+      <File FileName="EscuelaMusica-BackEnd/Program.cs" Line="26" Column="27" />
+      <File FileName="EscuelaMusica-BackEnd/Controllers/EscuelaController.cs" Line="15" Column="35" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EscuelaMusica-BackEnd" expanded="True">
+            <Node name="EscuelaMusica-BackEnd">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Infrastructure">
+                <Node name="Data" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="AlumnoRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EscuelaMusica-BackEnd PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/eroseliroquesantiago/Projects/EscuelaMusica-BackEnd/EscuelaMusica-BackEnd/Repositories/EscuelaRepository.cs" relfile="EscuelaMusica-BackEnd/Repositories/EscuelaRepository.cs" line="122" column="1" />
+      <Breakpoint file="/Users/eroseliroquesantiago/Projects/EscuelaMusica-BackEnd/EscuelaMusica-BackEnd/Repositories/EscuelaRepository.cs" relfile="EscuelaMusica-BackEnd/Repositories/EscuelaRepository.cs" line="90" column="1" />
+      <Breakpoint file="/Users/eroseliroquesantiago/Projects/EscuelaMusica-BackEnd/EscuelaMusica-BackEnd/Controllers/AlumnoController.cs" relfile="EscuelaMusica-BackEnd/Controllers/AlumnoController.cs" line="29" column="1" />
+      <Breakpoint file="/Users/eroseliroquesantiago/Projects/EscuelaMusica-BackEnd/EscuelaMusica-BackEnd/Repositories/AlumnoRepository.cs" relfile="EscuelaMusica-BackEnd/Repositories/AlumnoRepository.cs" line="62" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

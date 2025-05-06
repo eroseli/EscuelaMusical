@@ -1,0 +1,31 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.db
+*.sqlite
+
+# Configuration files
+appsettings.*.json
+secrets.json
+
+# Backup files
+*.bak
+*.sql~*
+
+# Mac system files
+.DS_Store
+
